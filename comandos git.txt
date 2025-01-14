@@ -47,3 +47,8 @@ Faça login no GitHub, se necessário
 Faça login no GitHub, se necessário
 
 As alterações devem aparecer no seu repositório no GitHub
+
+
+*AGORA ESTAMOS NA BRANCH NOVA 
+git checkout -b dev-----------salvou a branch
+git branch ------------consultar branch
